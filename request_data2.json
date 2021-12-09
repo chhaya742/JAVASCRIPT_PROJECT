@@ -1,0 +1,89 @@
+{
+   "course": {
+      "id": "84",
+      "name": "English 501",
+      "logo": "https://bit.ly/2zp7YLR",
+      "notes": null,
+      "days_to_complete": "30",
+      "short_description": "English learning",
+      "type": "html",
+      "course_type": null,
+      "lang_available": [
+         "en"
+      ],
+      "exercises": [
+         {
+            "id": "4055",
+            "parent_exercise_id": null,
+            "course_id": "84",
+            "name": "Reading_Practice",
+            "slug": "english-501__Reading_Practice_md",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "submission_type": null,
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-501/Reading_Practice.md",
+            "solution": null,
+            "content": [
+               {
+                  "type": "markdown",
+                  "value": "You can practice your readng skills reading\n[this book\n](https://www.researchgate.net/publication/258339295_FUNDAMENTALS_OF_COMPUTER_STUDIES)\nabout computer fundamentals.\n"
+               }
+            ]
+         },
+         {
+            "id": "4057",
+            "parent_exercise_id": null,
+            "course_id": "84",
+            "name": "Reading Strategies",
+            "slug": "english-501__Reading_Strategies_md",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "submission_type": null,
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-501/Reading_Strategies.md",
+            "solution": null,
+            "content": [
+               {
+                  "type": "markdown",
+                  "value": "Strategies to Read and Comprehend\n\n1. **Make a vocabulary list before you begin.**\nIn the excerpt above, you might have noticed some words you don’t know. Some words are more important to understand than others (we’ll learn more about that in the second tip). Before you read a text, skim it for words you don’t know and make a list with definitions.\n\n\n\nLook for:\n\n\n\n* Words that are repeated more than once.\n\n* Unknown words in short sentences.\n\n* Words you’ve seen in other places.\n\n\n\nFor example, the end of the last sentence in the first paragraph talks about the “neural circuits inside our brains.” What are neural circuits? By looking at the rest of the sentence, you can tell that neural circuits are something we have inside our brains.\n\n\n\nIf you made a list of vocabulary words before starting to read, you might already know that a circuit is a closed route that electricity takes. So you might guess that a neural circuit is the path that signals in our brains take when we think, act or learn something. And you’d be right!\n\n\n\n2. **Read and summarize.**\nYou understand the words. You understand the sentences. You’re even beginning to understand the ideas. Now stop! Read the text again and try to summarize it. Describe the main points and ideas using your own words.\n\n\n\nAfter going through the text little by little using these seven tips, you should be able to understand it a lot better than when you read it for the first time. Here’s a summary of the text, using simpler words:\n\n\n\nReading is not something we do naturally, so our brains need to learn how to change the letters on a page into actual meaning. How and where we read can change the way our brains make this change.\n\n\n\nStudies have shown that our brains work in very different ways when we read an alphabetical text than when we read a text of ideograms (like Chinese characters). This probably means that our brains also work differently when we read text online than when we read text from a physical book.\n\n\n\nIn other words, you might be changing the way your brain works right now, just by reading these words on a screen instead of a printed page. Pretty crazy!\n\n\n\n3. **Skim and scan.**\n\n\n\nScanning a text means looking for a specific part or for the answer to a specific question. Skimming a text means letting your eyes look over the text quickly without really reading every word. These are both excellent strategies to use before you start reading. you will let you understand a little bit about the text or topic so you have a rough idea of what you’re going to read about.\n\n\n\n"
+               }
+            ]
+         },
+         {
+            "id": "4056",
+            "parent_exercise_id": null,
+            "course_id": "84",
+            "name": "Vocabulary",
+            "slug": "english-501__Vocabulary_md",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "submission_type": null,
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-501/Vocabulary.md",
+            "solution": null,
+            "content": [
+               {
+                  "type": "markdown",
+                  "value": "Here is a book called \"Word Power Made Easy\".\n\n\n\nStudying this book will help us in learning how words are formed and used. In this course, let's learn to talk about personality types by using\n[this book\n](https://drive.google.com/file/d/1kvkdRwsMVJO_iGfHjRZtFtS8lKOAM8vr/view?usp=sharing)\n.\n"
+               }
+            ]
+         },
+         {
+            "id": "4058",
+            "parent_exercise_id": null,
+            "course_id": "84",
+            "name": "Samvaad",
+            "slug": "english-501__Samvaad_md",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "submission_type": null,
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-501/Samvaad.md",
+            "solution": null,
+            "content": [
+               {
+                  "type": "markdown",
+                  "value": "Find a partner and have a conversation on any two of the three topics given below.\n\n\n\nInspiration in Life\n\n* Who is your biggest inspiration in life?\n\n* What do you admire about them?\n\n* What qualities of theirs do you want to adopt?\n\n\n\n---\n\nVocabulary\n\n1. Review - आलोचना\n\n2. Critics - आलोचक\n\n3. Industrious - मेहनती\n\n4. Activity - गतिविधि\n\n5. Admire - प्रशंसा करना\n\n8. Success - सफलता\n\n9. Community - समुदाय\n\n10. Management skills - प्रबंधन कौशल\n\n11. Communication skills - संचार कौशल\n\n12. Immediate - तुरंत\n\n\n\n----\n\nPeer Pressure\n\n* Is peer pressure harmful or beneficial to individuals?\n\n* What are some ways in which in which peer pressure can be beneficial?\n\n* What are some ways in which peer pressure can be harmful?\n\n* How can one resist peer pressure?\n\n* When have you been a victim of peer pressure?\n\n* Do people face peer pressure in NavGurukul? How can it be improved?\n\n\n\nResources to study about peer pressure\n\n* [What is peer pressure?](https://www.verywellmind.com/what-is-peer-pressure-22246)\n* [Peer pressure and fitting in](https://kidshelpline.com.au/teens/issues/peer-pressure-and-fitting)\n* [Peer Pressure](http://www.safeteens.org/relationships/peer-pressure/)\n\nVocabulary\n\n 1- Addictive Behaviors - व्यसनकारी बरताव\n 2- Unpredic`tab`le -  जिसके स्वभाव आदि के बारे में पूर्वानुमान न लगाया जा सके\n 3- Adolescent - तेरह से उन्नीस वर्ष की आयु का\n 4- Vulnerable -  घाव लगाने योग्य\n 5- Gambling - जुआ खेलना\n 6- Addiction - बुरी आदत\n 7- Problematic -  अनिश्चित\n 8- Encouraging - प्रोत्साहक\n 9- Apologize - क्षमा मांगना\n 10- Experimentation - प्रयोग\n\n\n\n----\n\n\nAlcoholism\n\n* Are you aware of alcoholism problem in India?\n\n* What is alcoholism?\n\n* How can people fight with alcoholism?\n\n\n\nResources to study alcoholism:\n\n* <https://youtu.be/e5DxD6Tuxxw>\n\n"
+               }
+            ]
+         }
+      ]
+   }
+}
