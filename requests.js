@@ -7,7 +7,7 @@ const obj1=new Promise((resolve,reject)=>{
 })
 obj1.then((resolv)=>{
   data=resolv.data
-  fs.writeFileSync("Js_project/request_data.json",JSON.stringify(data,null,3)) 
+  fs.writeFileSync("data.json",JSON.stringify(data,null,3)) 
   serial_no=1
   for(i in data){
     console.log(serial_no,data[i]['name'],data[i]['id']);
@@ -21,7 +21,7 @@ obj1.then((resolv)=>{
   })
   obj2.then((resolv)=>{
     data2=resolv.data
-    fs.writeFileSync("Js_project/request_data2.json",JSON.stringify(data2,null,3)) 
+    fs.writeFileSync("data2.json",JSON.stringify(data2,null,3)) 
     var s_no=1
     var main_point=[]
     var sub_point=[]
@@ -45,47 +45,33 @@ obj1.then((resolv)=>{
                 c+=1
                 break}}}
 // # with open("point.json","w") as q:
-// // #     json.dump(main_point,q,indent=4)
-    // topic_no=read.questionInt("choose topic")
-    // for (var k=0; k<main_point.length;k++){
-    //     if (topic_no==k+1){
-    //       console.log(topic_no,main_point[k]["name"]);
-    //       console.log(main_point[k]["content"])
-    //       var a=main_point[k]["parent_exercise_id"]}}
-    // s=1
-    // name=[]
-    // content=[]
-    // for (var d=1; d<sub_point.length;d++){
-    //     if (sub_point[d]["parent_exercise_id"]==a){
-    //         console.log("   ",s,sub_point[d]["name"])
-    //         name.push(sub_point[d]["name"])
-    //         content.push(sub_point[d]["content"])
-    //         s+=1}}
-    // point=read.questionInt("choose a point")
-    // y=1
-    // for (i=0; i<name.length;i++,y++){
-    //     if (point==y){
-    //         console.log(name[i])
-    //         console.log(content[i])
-    //         console.log()
-    //     }}
+// #     json.dump(main_point,q,indent=4)
+    topic_no=read.questionInt("choose topic")
+    for (var k=0; k<main_point.length;k++){
+        if (topic_no==k+1){
+          console.log(topic_no,main_point[k]["name"]);
+          console.log(main_point[k]["content"])
+          var a=main_point[k]["parent_exercise_id"]}}
+    s=1
+    name=[]
+    content=[]
+    for (var d=1; d<sub_point.length;d++){
+        if (sub_point[d]["parent_exercise_id"]==a){
+            console.log("   ",s,sub_point[d]["name"])
+            name.push(sub_point[d]["name"])
+            content.push(sub_point[d]["content"])
+            s+=1}}
+    point=read.questionInt("choose a point")
+    y=1
+    for (i=0; i<name.length;i++,y++){
+        if (point==y){
+            console.log(name[i])
+            console.log(content[i])
+            console.log()
+        }}
       
 })
   
 }).catch((reject)=>{
   console.log(reject);
 })
-
-
-// 
-
-        
-
-
-        
-        
-
-
-
-
-
